@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: FlexRecipe_Say
+## Author: HE Yaowen <he.yaowen@hotmail.com>
+## Notes: Cauldron Extension: say something in game.
+## Version: 1.0.0
+## Dependencies: Cauldron
+
+Cauldron_Say.lua
+Example.lua
